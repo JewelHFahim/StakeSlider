@@ -1,0 +1,29 @@
+.slick-arrow.slick-next {
+  position: absolute;
+  width: 80px;
+  height: 40px;
+  right: 0px;
+  top: 0px;
+  color: black;
+  font-size: 15px;
+}
+
+
+.slick-arrow.slick-prev {
+  position: absolute;
+  width: 80px;
+  height: 40px;
+  top: 0px;
+  right: 0px;
+  color: black;
+  font-size: 15px;
+}
+
+.blur-image {
+  filter: blur(3px);
+}
+
+.slider img:hover {
+  margin-top: 1px;
+  transition-duration: 0.5s;
+}
